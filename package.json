@@ -1,0 +1,14 @@
+{
+  "name": "@union/particle-follow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katie Crain <kt.crain@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.89.0"
+  }
+}
