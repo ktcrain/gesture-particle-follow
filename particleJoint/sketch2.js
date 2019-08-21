@@ -47,8 +47,8 @@ function handleBodyCallback(body) {
 function initKinectron() {
     // Define and create an instance of kinectron
     // var kinectronIpAddress = '10.1.20.54';
-    // var kinectronIpAddress = '10.1.10.130';
-    var kinectronIpAddress = '127.0.0.1';
+    var kinectronIpAddress = '10.1.10.130';
+    // var kinectronIpAddress = '10.1.20.65';
     kinectron = new Kinectron(kinectronIpAddress);
 
     // Connect remote to application
