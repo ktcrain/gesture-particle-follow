@@ -9,6 +9,6 @@
   "author": "Katie Crain <kt.crain@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.89.0"
+    "three": "^0.125.0"
   }
 }
